@@ -9,9 +9,11 @@ The project contains SQL scripts to create and manipulate a database with three 
 3. employees: Contains employee information.
    
 **Features**
+
 Creation of the customer_order_management database.
 Creation and insertion of data into the customers, orders, and employees tables.
 Retrieval and manipulation of data using various SQL operations:
+
        1.**SELECT** statements to retrieve data.
        2. **DISTINCT** to remove duplicates.
        3. **ORDER BY** to sort data.
